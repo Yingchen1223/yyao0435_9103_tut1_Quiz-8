@@ -6,4 +6,4 @@ These two games both use simple visual design and subtle interaction to create a
 
 ![Limbo Example](images/limbo.jpg)
 
-![Rusty Lake Example](images/rustylake.jpg)
+![Rusty Lake Example](rustylake.jpg)
